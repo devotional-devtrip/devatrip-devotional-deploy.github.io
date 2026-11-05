@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/user/user-main/user-main.css"],
+  "sourcesContent": [".user-wrapper{\r\n    display: flex;\r\n    flex-direction: column;\r\n    width: 100%;\r\n    height: inherit;\r\n    overflow: auto;\r\n}"],
+  "mappings": "AAAA,CAAA,aACI,QAAA,KACA,eAAA,OACA,MAAA,KACA,OAAA,QACA,SAAA,IACJ",
+  "names": []
+}

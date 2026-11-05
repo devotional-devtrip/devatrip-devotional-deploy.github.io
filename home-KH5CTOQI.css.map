@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/home/home.css"],
+  "sourcesContent": [".home-wrapper {\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-between;\r\n    width: 100%;\r\n    min-height: 100vh;\r\n    color: #d6f0f5;\r\n    overflow: auto;\r\n}\r\n\r\n.home-menu {\r\n    display: flex;\r\n    justify-content: flex-end;\r\n    user-select: none;\r\n}\r\n\r\n.home-menu-item {\r\n    width: 48%;\r\n    max-width: 200px;\r\n    position: relative;\r\n}\r\n\r\n.home-footer {\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-around;\r\n    align-items: center;\r\n    align-content: center;\r\n    position: relative;\r\n    color: #d6f0f5;\r\n    width: 100%;\r\n    bottom: 0;\r\n    text-align: center;\r\n}"],
+  "mappings": "AAAA,CAAA,aACI,QAAA,KACA,eAAA,OACA,gBAAA,cACA,MAAA,KACA,WAAA,MACA,MAAA,QACA,SAAA,IACJ,CAEA,CAAA,UACI,QAAA,KACA,gBAAA,SACA,oBAAA,KAAA,YAAA,IACJ,CAEA,CAAA,eACI,MAAA,IACA,UAAA,MACA,SAAA,QACJ,CAEA,CAAA,YACI,QAAA,KACA,eAAA,OACA,gBAAA,aACA,YAAA,OACA,cAAA,OACA,SAAA,SACA,MAAA,QACA,MAAA,KACA,OAAA,EACA,WAAA,MACJ",
+  "names": []
+}

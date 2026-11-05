@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/utils/components/common-footer/common-footer.css"],
+  "sourcesContent": ["\r\n.common-footer {\r\n    align-items: center;\r\n    align-content: center;\r\n    position: relative;\r\n    color: #d6f0f5;\r\n    width: 100%;\r\n    bottom: 0;\r\n    text-align: center;\r\n}"],
+  "mappings": "AACA,CAAA,cACI,YAAA,OACA,cAAA,OACA,SAAA,SACA,MAAA,QACA,MAAA,KACA,OAAA,EACA,WAAA,MACJ",
+  "names": []
+}

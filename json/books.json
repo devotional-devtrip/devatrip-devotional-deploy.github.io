@@ -1,0 +1,161 @@
+[
+    {
+        "id":1,
+        "mastername": "Sundarkand & Hanuman Chalisa",
+        "content":[
+            {
+                "name":"Sundarkand",
+                "description":"Sundarkand of Tulshidas Ramayan",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"sundarkand"
+            },
+            {
+                "name":"Hanuman Chalisa",
+                "description":"Shri Hanuman Chalisa of Tulshidas, Shri Hanuman Arti and Shri Hanuman Ashtak",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"hanumanchalisa"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "mastername": "Sai baba Katha, Arti & 108 Names",
+        "content":[
+            {
+                "name":"Sai baba book",
+                "description":"Sai Baba Book contains vrat story, arati, 108 names and other auspecious mantras.",
+                "author":"anonymous",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"saibababook"
+            }
+        ]
+       
+    },
+    {
+        "id":3,
+        "mastername": "ShriRamcharitManas",
+        "content":[
+            {
+                "name":"Bal Kand - I",
+                "description":"Bal Kand of Shri Ramcharit Manas, Navanhaparayan first rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"balkand1"
+            },
+			{
+                "name":"Bal Kand - II",
+                "description":"Bal Kand of Shri Ramcharit Manas, Navanhaparayan second rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"balkand2"
+            },
+			{
+                "name":"Bal Kand - III",
+                "description":"Bal Kand of Shri Ramcharit Manas, Navanhaparayan third rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"balkand3"
+            },
+            {
+                "name":"Ayoudhya Kand - I",
+                "description":"Ayoudhya Kand of Shri Ramcharit Manas, Navanhaparayan fourth rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"ayoudhyakand1"
+            },
+            {
+                "name":"Ayoudhya Kand - II",
+                "description":"Ayoudhya Kand of Shri Ramcharit Manas, Navanhaparayan fifth rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"ayoudhyakand2"
+            },
+            {
+                "name":"Ayoudhya Kand - III",
+                "description":"Ayoudhya Kand of Shri Ramcharit Manas.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"ayoudhyakand3"
+            },
+			{
+                "name":"Aranya Kand",
+                "description":"Aranya Kand of Shri Ramcharit Manas, Navanhaparayan Sixth rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"aranyakand"
+            },
+            {
+                "name":"Kiskindha Kand",
+                "description":"Kiskindha Kand of Shri Ramcharit Manas.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"kiskindhakand"
+            },
+            {
+                "name":"Sundar Kand",
+                "description":"Sundar Kand of Shri Ramcharit Manas",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"sundarkand"
+            },
+            {
+                "name":"Lanka Kand",
+                "description":"Lanka Kand of Shri Ramcharit Manas, Navanhaparayan Seventh rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"lankakand"
+            },
+            {
+                "name":"Uttar Kand",
+                "description":"Uttar Kand of Shri Ramcharit Manas, Navanhaparayan Eighth and Ninth rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"uttarkand"
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/devotional/devotional-book/devotional-book-main/devotional-book-main.css"],
+  "sourcesContent": [".booklist-wrapper {\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-around;\r\n    align-items: center;\r\n    width: 100%;\r\n    height: calc(100vh - 75px);\r\n    color: #d6f0f5;\r\n}\r\n/*\r\n.booklist-footer{\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-around;\r\n    align-items: center;\r\n    align-content: center;\r\n    position: relative;\r\n    color: #d6f0f5;\r\n    width: 100%;\r\n    bottom: 0;\r\n    text-align: center;\r\n  }\r\n\r\n.booklist-main {\r\n    padding-top: 10vh;\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-around;\r\n    align-items: center;\r\n    text-align: center;\r\n}\r\n\r\n.booklist-menu {\r\n    display: flex;\r\n    justify-content: flex-end;\r\n    user-select: none;\r\n}\r\n\r\n.booklist-menu-item {\r\n    width: 48%;\r\n    max-width: 200px;\r\n    position: relative;\r\n}\r\n\r\n.booklist-container{\r\n    padding-top: 10vh;\r\n    width: 100%;\r\n    min-width: 100%;\r\n    min-height: 90vh;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    text-align: center;\r\n}\r\n*/"],
+  "mappings": "AAAA,CAAA,iBACI,QAAA,KACA,eAAA,OACA,gBAAA,aACA,YAAA,OACA,MAAA,KACA,OAAA,KAAA,MAAA,EAAA,MACA,MAAA,OACJ",
+  "names": []
+}

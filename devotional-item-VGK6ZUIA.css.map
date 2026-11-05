@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/devotional/devotional-item/devotional-item.css"],
+  "sourcesContent": [".devotional-element{\r\n  display: flex;\r\n  flex-direction: column;\r\n  justify-content: space-evenly;\r\n  align-items: center;\r\n  border: none;\r\n  box-shadow: 0 5px 50px #e1e3e4;\r\n  transition: all 100ms linear; \r\n  width: 100%;\r\n  height: 100%;\r\n}\r\n  \r\n.info-head{\r\n  padding: 10px;\r\n  font-size: 1.95em;\r\n  line-height: 1.4;\r\n  text-align: left;\r\n  vertical-align: top;\r\n  cursor: pointer;\r\n  cursor: hand;\r\n  position: relative;\r\n}\r\n\r\n.info-description{\r\n  padding: 10px;\r\n  font-size: 0.95em;\r\n  line-height: 1.4;\r\n  text-align: left;\r\n  vertical-align: top;\r\n  cursor: pointer;\r\n  cursor: hand;\r\n  position: relative;\r\n}\r\n\r\n.button-item{\r\n  max-width: 20%;\r\n}"],
+  "mappings": "AAAA,CAAA,mBACE,QAAA,KACA,eAAA,OACA,gBAAA,aACA,YAAA,OACA,OAAA,KACA,WAAA,EAAA,IAAA,KAAA,QACA,WAAA,IAAA,IAAA,OACA,MAAA,KACA,OAAA,IACF,CAEA,CAAA,UAZA,QAaE,KACA,UAAA,OACA,YAAA,IACA,WAAA,KACA,eAAA,IACA,OAAA,QACA,OAAA,KACA,SAAA,QACF,CAEA,CAAA,iBAvBA,QAwBE,KACA,UAAA,MACA,YAAA,IACA,WAAA,KACA,eAAA,IACA,OAAA,QACA,OAAA,KACA,SAAA,QACF,CAEA,CAAA,YACE,UAAA,GACF",
+  "names": []
+}

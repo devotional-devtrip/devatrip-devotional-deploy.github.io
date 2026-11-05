@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/utils/clean-url-serializer.ts"],
+  "sourcesContent": ["import { UrlTree, DefaultUrlSerializer, UrlSerializer, Router } from '@angular/router';\r\n\r\nexport class cleanUrlSerializer extends DefaultUrlSerializer {\r\n\r\n    override serialize(tree: UrlTree): string {\r\n\r\n        const defaultUrl = super.serialize(tree);\r\n        return defaultUrl\r\n            .replace(/\\(([^:]+:)?/, '')       // Removes opening '(' and optional outlet name prefix\r\n            .replace(/\\/\\//g, '/')            // Cleans up accidental double slashes\r\n            .replace(/\\)/g, '');              // Removes closing ')'\r\n    }\r\n}"],
+  "mappings": "yCAEM,IAAOA,EAAP,cAAkCC,CAAoB,CAE/CC,UAAUC,EAAa,CAG5B,OADmB,MAAMD,UAAUC,CAAI,EAElCC,QAAQ,cAAe,EAAE,EACzBA,QAAQ,QAAS,GAAG,EACpBA,QAAQ,MAAO,EAAE,CAC1B",
+  "names": ["cleanUrlSerializer", "DefaultUrlSerializer", "serialize", "tree", "replace"]
+}

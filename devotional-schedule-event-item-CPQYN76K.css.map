@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/devotional/devotional-event/devotional-event-planner/devotional-schedule-event-item/devotional-schedule-event-item.css"],
+  "sourcesContent": [".item-wrapper {\r\n\r\n    padding: 24px;\r\n    width: 100%;\r\n    max-width: 380px;\r\n    display: flex;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    border: none;\r\n    color: #d6f0f5;\r\n    border-radius: 1.5rem;\r\n    box-shadow: 0 5px 50px #f8f7f5;\r\n    cursor: pointer;\r\n}"],
+  "mappings": "AAAA,CAAA,aAAA,QAEI,KACA,MAAA,KACA,UAAA,MACA,QAAA,KACA,eAAA,OACA,YAAA,OACA,OAAA,KACA,MAAA,QATJ,cAUI,OACA,WAAA,EAAA,IAAA,KAAA,QACA,OAAA,OACJ",
+  "names": []
+}

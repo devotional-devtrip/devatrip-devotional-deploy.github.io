@@ -1,0 +1,3 @@
+import{Ga as m,W as e,oa as n,pa as r}from"./chunk-7C527TV7.js";var a=(()=>{class o{constructor(){}static \u0275fac=function(t){return new(t||o)};static \u0275cmp=e({type:o,selectors:[["common-footer"]],decls:2,vars:0,consts:[[1,"common-footer"]],template:function(t,i){t&1&&(n(0,"div",0),m(1,"Powered by devatrip developers and contributors \xA9 www.devatrip.com 2012-2050"),r())},styles:[`.common-footer[_ngcontent-%COMP%]{align-items:center;align-content:center;position:relative;color:#d6f0f5;width:100%;bottom:0;text-align:center}
+/*# sourceMappingURL=common-footer-V2ZOKNEZ.css.map */`]})}return o})();export{a};
+//# sourceMappingURL=chunk-YRWN3HOE.js.map
