@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Dhan Trayodashi",
+        "file": "dhan-trayodashi",
+        "date": "06-11-2026",
+        "time": "05:45pm"
+    },
+    {
+        "id": 2,
+        "name": "Choti Diwali",
+        "file": "choti-diwali",
+        "date": "07-11-2026",
+        "time": "05:45pm"
+    },
+    {
+        "id": 3,
+        "name": "Nark Chaturdashi",
+        "file": "nark-chaturdashi",
+        "date": "07-11-2026",
+        "time": "10:45pm"
+    },
+    {
+        "id": 4,
+        "name": "Diwali",
+        "file": "diwali",
+        "date": "08-11-2026",
+        "time": "05:45pm"
+    },
+    {
+        "id": 5,
+        "name": "Annkoot",
+        "file": "annkoot",
+        "date": "09-11-2026",
+        "time": "09:45am"
+    },
+    {
+        "id": 6,
+        "name": "Goodhan",
+        "file": "goodhan",
+        "date": "10-11-2026",
+        "time": "08:45pm"
+    },
+    {
+        "id": 7,
+        "name": "Bhiya Dooj",
+        "file": "bhiya-dooj",
+        "date": "10-11-2026",
+        "time": "09:45pm"
+    }
+]

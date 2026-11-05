@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/utils/components/common-footer/common-footer.ts", "src/app/utils/components/common-footer/common-footer.html"],
+  "sourcesContent": ["import { Component } from '@angular/core';\n\n@Component({\n  selector: 'common-footer',\n  imports: [],\n  templateUrl: './common-footer.html',\n  styleUrl: './common-footer.css',\n})\nexport class CommonFooter {\n  constructor() { }\n}\n", "<div class=\"common-footer\" >Powered by devatrip developers and contributors © www.devatrip.com 2012-2050</div>\n"],
+  "mappings": ";kEAQA,IAAaA,GAAY,IAAA,CAAnB,MAAOA,CAAY,CACvBC,aAAA,CAAgB,4CADLD,EAAY,2BAAZA,EAAYE,UAAA,CAAA,CAAA,eAAA,CAAA,EAAAC,MAAA,EAAAC,KAAA,EAAAC,OAAA,CAAA,CAAA,EAAA,eAAA,CAAA,EAAAC,SAAA,SAAAC,EAAAC,EAAA,CAAAD,EAAA,ICRzBE,EAAA,EAAA,MAAA,CAAA,EAA4BC,EAAA,EAAA,iFAAA,EAA4EC,EAAA;kEDQ3FX,CAAY,GAAA",
+  "names": ["CommonFooter", "constructor", "selectors", "decls", "vars", "consts", "template", "rf", "ctx", "\u0275\u0275domElementStart", "\u0275\u0275text", "\u0275\u0275domElementEnd"]
+}

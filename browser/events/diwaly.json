@@ -1,0 +1,106 @@
+{
+    "data": {
+        "id": 2,
+        "name": "Diwali",
+        "file": "diwali",
+        "Date": "08-11-2026",
+        "time": "05:45pm",
+        "task": [
+            {
+                "id": 101,
+                "description": "Diwali description",
+                "todo": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": 102,
+                "description": "How to do puja",
+                "todo": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": 103,
+                "description": "Prepertion for AI pandit",
+                "todo": [
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "id": 104,
+                "description": "Diwali finalizing",
+                "todo": [
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "aipandit": [
+            {
+                "id": 1,
+                "description": "pronounce the validation of preperation",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 2,
+                "description": "pronounce the amount to be paid",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 3,
+                "description": "Start the puja by sankalp",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 4,
+                "description": "puja 1",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 5,
+                "description": "puja 2",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 6,
+                "description": "puja 3",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 7,
+                "description": "puja 4",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 8,
+                "description": "puja 5",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 9,
+                "description": "puja 6",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            },
+            {
+                "id": 10,
+                "description": "puja 7",
+                "aitask": "Sound - file or text to converted by AI to speech"
+            }
+        ],
+        "next": {
+            "id": 2,
+            "name": "Choti Diwali",
+            "file": "choti-diwali",
+            "Date": "07-11-2026",
+            "time": "05:45pm"
+        }
+    }
+}

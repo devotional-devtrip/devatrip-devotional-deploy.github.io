@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Books",
+        "route": "home/devotional/item/books",
+        "description": "Books and other devotional contents, blog etc."
+    },
+    {
+        "id": 2,
+        "name": "Multimedia",
+        "route": "home/devotional/item/multimedia",
+        "description": "Devotional songs, video, radio channels and live broadcasts."
+    }
+]

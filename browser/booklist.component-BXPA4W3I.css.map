@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/devotional/devotional-book/booklist/booklist.component.css"],
+  "sourcesContent": ["/*.booklist-footer{\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-around;\r\n    align-items: center;\r\n    align-content: center;\r\n    position: relative;\r\n    color: #d6f0f5;\r\n    width: 100%;\r\n    bottom: 0;\r\n    text-align: center;\r\n  }*/\r\n.booklist-container {\r\n  padding-top: 40px;\r\n  padding-bottom: 20px;\r\n}"],
+  "mappings": "AAYA,CAAA,mBACE,YAAA,KACA,eAAA,IACF",
+  "names": []
+}

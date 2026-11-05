@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/user/components/user-header/user-header.css"],
+  "sourcesContent": [".header-wrapper {\r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    background-color: none;/*aqua;*/\r\n    height: 75px;\r\n    width: 100%;\r\n    border: none;\r\n    border-radius: 0;\r\n    box-shadow: 0 0 10px #f8f7f5;\r\n    font-family: \"Baloo\";\r\n    padding: 0 10px;\r\n}\r\n\r\n"],
+  "mappings": "AAAA,CAAA,eACI,QAAA,KACA,eAAA,IACA,gBAAA,cACA,YAAA,OACA,iBAAA,KACA,OAAA,KACA,MAAA,KACA,OAAA,KARJ,cASI,EACA,WAAA,EAAA,EAAA,KAAA,QACA,YAAA,MAXJ,QAYI,EAAA,IACJ",
+  "names": []
+}

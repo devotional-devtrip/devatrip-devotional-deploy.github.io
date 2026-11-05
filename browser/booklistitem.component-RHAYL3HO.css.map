@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/devotional/devotional-book/booklist/booklistitem/booklistitem.component.css"],
+  "sourcesContent": ["img {\r\n    border-radius: 50%;\r\n    height: 30px;\r\n    width: 30px;\r\n    border: 3px solid;\r\n    border-color: lightgray;\r\n  }\r\n  \r\n  table {\r\n    width: 100%;\r\n    border: 1px solid lightgrey;\r\n    background-color: white;\r\n  }\r\n  \r\n  tr {\r\n    padding: 10px;\r\n    position: relative;\r\n  }\r\n  \r\n  table td {\r\n    padding: 10px;\r\n    font-size: 0.95em;\r\n    line-height: 1.4;\r\n    text-align: left;\r\n    color: lightslategrey;\r\n    vertical-align: top;\r\n    cursor: pointer;\r\n    cursor: hand;\r\n    position: relative;\r\n  }\r\n  \r\n  .item-heading{\r\n    font-size: 1.5em;\r\n    font-weight: bold;\r\n  }\r\n  \r\n  h3{\r\n    width: 100%;\r\n    text-align: start;\r\n    \r\n  }"],
+  "mappings": "AAAA,kBACI,IACA,OAAA,KACA,MAAA,KACA,OAAA,IAAA,MACA,aAAA,OACF,CAEA,MACE,MAAA,KACA,OAAA,IAAA,MAAA,UACA,iBAAA,IACF,CAEA,GAdF,QAeI,KACA,SAAA,QACF,CAEA,MAAA,GAnBF,QAoBI,KACA,UAAA,MACA,YAAA,IACA,WAAA,KACA,MAAA,KACA,eAAA,IACA,OAAA,QACA,OAAA,KACA,SAAA,QACF,CAEA,CAAA,aACE,UAAA,MACA,YAAA,GACF,CAEA,GACE,MAAA,KACA,WAAA,KAEF",
+  "names": []
+}

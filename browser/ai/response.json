@@ -1,0 +1,37 @@
+
+    {
+        "general": {
+            "ques": [
+                "are you listen",
+                "how to get"
+            ],
+            "ans": [
+                "Yes, processing your request. Please wait.",
+                "Please send us an email through suppoprt option under profile. Kripya profile se support option use kar ke, hume email bhejiye."
+            ]
+        },
+        "personal": {
+            "ques": [
+                "are you listen"
+            ],
+            "ans": [
+                "Yes, processing your request. Please wait."
+            ]
+        },
+        "currentevent": {
+            "ques": [
+                "are you listen"
+            ],
+            "ans": [
+                "Yes, processing your request. Please wait."
+            ]
+        },
+        "scheduledevent": {
+            "ques": [
+                "are you listen"
+            ],
+            "ans": [
+                "Yes, processing your request. Please wait."
+            ]
+        }
+    }
